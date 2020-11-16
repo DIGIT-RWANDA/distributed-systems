@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "fastify": "3.8.0",
+    "fastify-gql": "5.8.2",
     "node-fetch": "2.6.1"
   }
 }
